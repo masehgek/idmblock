@@ -15,6 +15,7 @@
 ||cdn.mouseflow.com^
 ||tools.mouseflow.com^
 ||cdn-test.mouseflow.com^
+||o2.mouseflow.com^
 ||freshmarketer.com^
 ||fwtracks.freshmarketer.com^
 ||api.luckyorange.com^
@@ -53,3 +54,10 @@
 ||data.ads.oppomobile.com^
 ||grs.hicloud.com^
 ||logservice.hicloud.com^
+||advice-ads.s3.amazonaws.com^
+||pagead2.googlesyndication.com^
+||adservice.google.com^
+||adtago.s3.amazonaws.com^
+||analyticsengine.s3.amazonaws.com^
+||analytics.s3.amazonaws.com^
+||app.getsentry.com^
